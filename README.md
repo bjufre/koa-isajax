@@ -1,6 +1,7 @@
 # koa-isajax
 
-Middleware for Koa 2 that sets a boolean on the `ctx.state` on wheather or not the request is and Ajax request.
+Express `req.xhr` equivalent for Koa 2 applications.
+Middleware for Koa 2 that sets a boolean on the `ctx.state` on whether or not the request is and Ajax request.
 
 This middleware is the equivalent to [Express `req.xhr`.](http://expressjs.com/en/api.html#req.xhr)
 
