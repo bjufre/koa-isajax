@@ -16,8 +16,8 @@ import isajax from 'koa-isajax';
 const app = new Koa();
 
 app.use(isajax());
-app.use(async () => {
-    if (this.state.xhr) {
+app.use(async (ctx) => {
+    if (ctx.state.xhr) {
         // Ajax request.
     } else  {
         // Not ajax request.
