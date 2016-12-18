@@ -13,7 +13,9 @@
   "keywords": [
     "Koajs",
     "middleware",
-    "ajax"
+    "ajax",
+    "xhr",
+    "request"
   ],
   "author": "Bernat Jufré",
   "license": "ISC",
