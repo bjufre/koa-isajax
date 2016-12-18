@@ -1,6 +1,6 @@
 {
   "name": "koa-isajax",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Middleware for koajs 2 to check if the incoming request is an Ajax request.",
   "main": "index.js",
   "scripts": {
