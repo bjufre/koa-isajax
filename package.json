@@ -11,7 +11,8 @@
     "url": "git+https://github.com/behind-design/koa-isajax.git"
   },
   "keywords": [
-    "Koajs",
+    "koa",
+    "koajs",
     "middleware",
     "ajax",
     "xhr",
